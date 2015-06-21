@@ -1,3 +1,4 @@
 [submodule "src/typescript"]
 	path = src/typescript
 	url = https://github.com/Microsoft/TypeScript.git
+	branch = v1.5.0-beta
